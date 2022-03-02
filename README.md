@@ -1,3 +1,3 @@
 # HTML/CSS
-| chapter4 | 枠組み |
+| chapter4 | Website layouts |
 | - | - |
